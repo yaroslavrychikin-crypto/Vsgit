@@ -1,1 +1,5 @@
 *.txt
+
+cdir/
+
+rt.cs
